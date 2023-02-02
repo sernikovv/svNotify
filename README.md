@@ -1,6 +1,6 @@
 # Notify z servera CocoRP
 
-Preview:
+Preview: https://www.youtube.com/watch?v=aU68VHY5ZTI
 
 Export:
 ```
